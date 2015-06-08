@@ -1,2 +1,2 @@
-# my-project-2
-This project with "gh-pages" branch
+# Project: Father's Path
+example
